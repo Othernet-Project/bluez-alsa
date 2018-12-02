@@ -25,7 +25,6 @@
 # Autotools
 /autom4te.cache/
 /build*/
-/m4/
 /aclocal.m4
 /ar-lib
 /compile
